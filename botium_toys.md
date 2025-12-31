@@ -1,24 +1,20 @@
-# BOTIUM TOYS  
-## Scope, Goals, and Risk Assessment Report
+# Botium Toys: Scope, goals, and risk assessment report
 
 ---
 
-## I. Scope and Goals of the Audit
+## Scope and goals of the audit
 
 ### Scope
-The scope of this audit covers the entire security program at **Botium Toys**. The assessment includes all assets managed by the IT department, encompassing systems, devices, data, and internal processes related to security control implementation and compliance with applicable standards.
-
+**Scope:** The scope of this audit covers the entire security program at Botium Toys. The assessment includes all assets managed by the IT department, encompassing systems, devices, data, and internal processes related to security control implementation and compliance with applicable standards.
 The audit evaluates not only the technologies in use, but also asset management practices, access control mechanisms, and the consistency of security control application across daily operations.
 
 ### Goals
-The primary goal of this audit is to evaluate the current security posture and identify gaps between existing practices and industry standards and best practices. The assessment focuses on reviewing existing assets and completing control and compliance checklists to determine which security measures should be implemented to improve Botium Toys’ overall security posture.
+**Goals:**The primary goal of this audit is to evaluate the current security posture and identify gaps between existing practices and industry standards and best practices. The assessment focuses on reviewing existing assets and completing control and compliance checklists to determine which security measures should be implemented to improve Botium Toys’ overall security posture.
 
 ---
 
-## II. Current Assets
-
+## Current assets
 Assets managed by the IT department at Botium Toys include:
-
 - On-premises equipment supporting office operations  
 - Employee devices such as desktops, laptops, smartphones, remote workstations, and supporting peripherals  
 - Retail products sold through physical stores and online platforms, including warehouse storage  
@@ -27,24 +23,20 @@ Assets managed by the IT department at Botium Toys include:
 
 ---
 
-## III. Risk Assessment
+## Risk assessment
 
-### a. Risk Description
+### Risk description
 Asset management at Botium Toys has not been implemented optimally. Existing security controls are limited and not fully aligned with national and international security regulations and standards. This situation exposes the organization to significant security risks, particularly related to sensitive data protection and business continuity.
 
-### b. Control Best Practices
+### Control best practices
 The recommended approach aligns with the **Identify** function of the **NIST Cybersecurity Framework**. Botium Toys should allocate resources to identify and classify all existing assets. This process provides a foundation for understanding risk levels, prioritizing protection efforts, and evaluating the business impact of potential asset loss.
 
-### c. Risk Score
+### Risk score
 The overall risk score is **8 out of 10**, indicating a high level of risk. This score reflects limited security controls and low adherence to compliance requirements and security best practices.
 
-### d. Additional Risk Considerations
+### Additional risk considerations
 The potential impact of asset loss is considered moderate due to the lack of clarity regarding which assets are most critical to operations. However, the likelihood of asset compromise and regulatory penalties is high, as security controls and data protection mechanisms are insufficient.
-
----
-
-## IV. Specific Findings
-
+Specific findings include:
 - All employees have broad access to internal data, including potential access to payment data and customer PII/SPII  
 - Encryption has not been implemented to protect credit card data processed and stored within internal systems  
 - Principles of least privilege and separation of duties have not been applied  
