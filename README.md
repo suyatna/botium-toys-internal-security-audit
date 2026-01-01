@@ -35,7 +35,7 @@ Dalam prosesnya, saya tidak hanya menilai teknologi yang digunakan. Saya juga me
 
 #### b. Goals
 
-Tujuan utama audit ini sederhana, saya ingin tahu sekuat apa kondisi keamanan Botium Toys saat ini. Dari sana saya mulai membandingkan praktik yang sudah berjalan dengan standar dan best practice yang biasa dipakai di industri.
+Tujuan utama audit ini sederhana, saya ingin tahu sekuat apa kondisi keamanan Botium Toys saat ini. Setelah tahu kondisi keamanan, saya mulai membandingkan praktik yang sudah berjalan dengan standar dan best practice yang biasa dipakai di industri.
 
 Saya menelusuri aset yang ada satu per satu sambil mencocokkannya dengan daftar kontrol dan kepatuhan. Proses ini membantu saya melihat bagian mana yang sudah aman dan bagian mana yang masih punya celah. Dari hasil itulah muncul gambaran langkah keamanan apa saja yang perlu diterapkan supaya posisi keamanan Botium Toys bisa jadi lebih kuat.
 
@@ -88,10 +88,10 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 
 ### Administrative/managerial controls
 
-|Control name|Control types|Control purpose|
+|Nama kontrol|Tipe kontrol|Alasan|
 |---|---|---|
 |Least privilege|Preventative|Setiap orang hanya pegang akses yang benar benar dibutuhkan|
-|Disaster recovery plans|Correctiv|Aktivitas bisnis tetap bisa lanjut setelah insiden|
+|Disaster recovery plans|Corrective|Aktivitas bisnis tetap bisa lanjut setelah insiden|
 |Password policies|Preventative|Akses akun tidak mudah ditembus dengan cara sederhana|
 |Access control policies|Preventative|Hak lihat dan ubah data jadi lebih jelas|
 |Account management policies|Preventative|Akun lama dan akun default tidak jadi pintu masuk ancaman|
@@ -99,7 +99,7 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 
 ### Technical controls
 
-|Control name|Control types|Control purpose|
+|Nama kontrol|Tipe kontrol|Alasan|
 |---|---|---|
 |Firewall|Preventative|Jaringan terlindungi dari lalu lintas yang mencurigakan|
 |IDS/IPS|Detective|Aktivitas aneh bisa terdeteksi lebih cepat|
@@ -111,7 +111,7 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 
 ### Physical/operational controls
 
-|Control name|Control types|Control purpose|
+|Nama kontrol|Tipe kontrol|Alasan|
 |---|---|---|
 |Time-controlled safe|Deterrent|Akses aset penting dibatasi secara fisik|
 |Adequate lighting|Deterrent|Area rawan jadi lebih terbuka dan aman|
@@ -125,4 +125,18 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 
 ## 📋 Control and compliance checklist <a name="controlandcompliance">
  
-Cybersecurity controls are grouped into three primary categories based on their function and area of protection within an organization. This classification helps ensure that human, technological, and physical aspects of security are addressed through a defense-in-depth approach.
+Pada tahap ini, saya mulai mencocokkan kontrol keamanan yang seharusnya ada dengan kondisi nyata di Botium Toys. Dari sini kelihatan mana yang sudah jalan dan mana yang masih ada celah.
+
+|Control|Yes|No|
+|---|---|---|
+|Least privilege| |x|
+|Disaster recovery plans| |x|
+|Password policies|x| |
+|Separation of duties| |x|
+|Firewall|x| |
+|IDS/IPS| |x|
+|Backups| |x|
+|Antivirus (AV) software|x| |
+|Manual monitoring, maintenance, and intervention|x| |
+|Encryption|x| |
+
