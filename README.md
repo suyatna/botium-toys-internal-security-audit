@@ -31,11 +31,11 @@ The audit evaluates Botium Toys’ cybersecurity program and examines how existi
 
 Audit ini saya lakukan dengan melihat keseluruhan program keamanan di Botium Toys. Fokusnya bukan hanya pada satu sistem atau alat tertentu, tapi ke semua aset yang dikelola tim IT. Mulai dari sistem yang dipakai sehari hari, perangkat kerja, data perusahaan, sampai proses internal yang berkaitan langsung dengan penerapan kontrol keamanan dan kepatuhan terhadap standar yang berlaku.
 
-Pada prosesnya, saya tidak hanya menilai teknologi yang digunakan. Saya juga melihat bagaimana aset dikelola, siapa saja yang punya akses, dan bagaimana kontrol keamanan benar benar diterapkan dalam aktivitas harian. Dari sini terlihat apakah praktik keamanan sudah berjalan konsisten atau masih sebatas aturan di atas kertas.
+Dalam prosesnya, saya tidak hanya menilai teknologi yang digunakan. Saya juga melihat bagaimana aset dikelola, siapa saja yang punya akses, dan bagaimana kontrol keamanan benar benar diterapkan dalam aktivitas harian. Dari sini terlihat apakah praktik keamanan sudah berjalan konsisten atau masih sebatas aturan di atas kertas.
 
 #### b. Goals
 
-Tujuan utama audit ini sederhana, saya ingin tahu sekuat apa kondisi keamanan Botium Toys saat ini. Saya mulai membandingkan praktik yang sudah berjalan dengan standar dan best practice yang biasa dipakai di industri.
+Tujuan utama audit ini sederhana, saya ingin tahu sekuat apa kondisi keamanan Botium Toys saat ini. Dari sana saya mulai membandingkan praktik yang sudah berjalan dengan standar dan best practice yang biasa dipakai di industri.
 
 Saya menelusuri aset yang ada satu per satu sambil mencocokkannya dengan daftar kontrol dan kepatuhan. Proses ini membantu saya melihat bagian mana yang sudah aman dan bagian mana yang masih punya celah. Dari hasil itulah muncul gambaran langkah keamanan apa saja yang perlu diterapkan supaya posisi keamanan Botium Toys bisa jadi lebih kuat.
 
@@ -84,7 +84,7 @@ Bagian ini menjadi titik penting dalam cerita audit saya. Dari sini terlihat jel
 
 ## 🚧 Control categories <a name="controlcategories">
 
-Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan di Botium Toys. Saya membaginya ke tiga lapisan utama. Administrative/managerial controls, technical controls, dan Physical/operational controls. Pendekatan ini membantu saya melihat keamanan bukan hanya dari sisi sistem, tapi dilihat juga dari cara orang bekerja dan bagaimana aset dijaga.
+Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan di Botium Toys. Saya membaginya ke tiga lapisan utama. Administrative/managerial controls, technical controls, dan Physical/operational controls. Pendekatan ini membantu saya melihat keamanan bukan cuma dari sisi sistem, tapi juga dari cara orang bekerja dan bagaimana aset dijaga.
 
 ### Administrative/managerial controls
 
