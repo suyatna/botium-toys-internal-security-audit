@@ -1,23 +1,23 @@
-# Botium Toys: Internal security audit case study
+# BOTIUM TOYS: INTERNAL SECURITY AUDIT
 
 ## Table of contents
 
-1. [Introduction](#introduction)
-2. [Scenario](#scenario)
-3. [Botium Toys: Scope, goals, and risk assessment report](#botiumtoys)
-4. [Control categories](#controlcategories)
-5. [Controls and compliance checklist](#controlandcompliance)
-6. [Conclusion](#conclusion)
+1. [INTRODUCTION](#introduction)
+2. [SCENARIO](#scenario)
+3. [BOTIUM TOYS: SCOPE, GOALS, AND RISK ASSESSMEN REPORT](#botiumtoys)
+4. [CONTROL CATEGORIES](#controlcategories)
+5. [CONTROL AND COMPLIANCE CHECKLIST](#controlandcompliance)
+6. [CONCLUSION](#conclusion)
 
-# I. Introduction <a name="introduction">
+# 1. INTRODUCTION <a name="introduction">
 
 The audit evaluates Botium Toys cybersecurity program and examines how existing business practices align with industry standards and best practices. The assessment focuses on identifying high-risk vulnerabilities, providing mitigation recommendations, and defining an overall strategy to improve the organization’s security posture. Audit findings are documented clearly, supported by remediation plans, and structured to enable effective communication with stakeholders.
 
-# II. Scenario <a name="scenario">
+# 2. SCENARIO <a name="scenario">
 
 The audit evaluates Botium Toys’ cybersecurity program and examines how existing business practices align with industry standards and best practices. The assessment focuses on identifying high-risk vulnerabilities, providing mitigation recommendations, and defining an overall strategy to improve the organization’s security posture. Audit findings are documented clearly, supported by remediation plans, and structured to enable effective communication with stakeholders.
 
-# III. Botium Toys: Scope, goals, and risk assessment report <a name="botiumtoys">
+# 3. BOTIUM TOYS: SCOPE, GOALS, AND RISK ASSESSMEN REPORT <a name="botiumtoys">
 
 ## 3.1. Scope and goals of the audit
 
@@ -70,7 +70,7 @@ Specific findings include:
 - A password policy exists but does not meet modern complexity standards
 - A centralized password management system has not been implemented
 
-# IV. Control categories <a name="controlcategories">
+# 4. CONTROL CATEGORIES <a name="controlcategories">
 
 ## 4.1. Overview
  
@@ -92,7 +92,7 @@ The control types referenced in this audit include:
 
 These control types work together to protect organizational assets through layered security.
 
-### a. Administrative/managerial controls
+## 4.3. Administrative/managerial controls
 Administrative controls focus on the human element of cybersecurity. These controls include policies, procedures, and internal rules that define how data is managed and how employee responsibilities are assigned in relation to protecting the organization.
 
 Administrative controls are typically policy-driven, but their effectiveness often relies on the support of technical and physical controls during implementation.
@@ -106,7 +106,7 @@ Administrative controls are typically policy-driven, but their effectiveness oft
 |Account management policies  |Preventative   |Manage account lifecycles, reduce attack surface, and limit risks from default or former employee accounts |
 |Account management policies  |Preventative   |Reduce the risk of abuse by separating critical responsibilities across roles                              |
 
-### b. Technical controls
+## 4.4. Technical controls
 Technical controls consist of technology-based solutions used to protect systems, networks, and data from digital threats. These controls play a direct role in preventing, detecting, and responding to security incidents.
 
 The implementation of technical controls enables organizations to achieve security objectives in a consistent and measurable manner.
@@ -121,7 +121,7 @@ The implementation of technical controls enables organizations to achieve securi
 |Antivirus (AV) software                          |Corrective     |Detect and isolate known threats                                           |
 |Manual monitoring, maintenance, and intervention |Preventative   |Identify and manage risks in legacy systems that lack automated updates    |
 
-### c. Physical/operational controls
+## 4.5. Physical/operational controls
 Physical controls are used to restrict unauthorized physical access to organizational assets. These controls protect facilities, infrastructure, and inventory from non-digital threats.
 
 Physical security serves as a critical layer in safeguarding IT assets and supporting business operations.
@@ -136,7 +136,7 @@ Physical security serves as a critical layer in safeguarding IT assets and suppo
 |Locks                                            |Preventative/deterrent  |Prevent and deter unauthorized access to physical assets                          |
 |Fire detection and prevention systems            |Detective/preventative  |Detect fires and prevent damage to physical assets such as inventory and servers  |
 
-# V. Controls and compliance checklist <a name="controlandcompliance">
+# 5. CONTROL AND COMPLIANCE CHECKLIST <a name="controlandcompliance">
 
 ## 5.1. Overview
  
