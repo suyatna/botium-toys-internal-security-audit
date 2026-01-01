@@ -11,6 +11,9 @@
 
 # Introduction <a name="introduction">
 
+This case study is part of my cybersecurity portfolio and focuses on an internal security audit assessment. Botium Toys, a fictitious toy retail company, is used as a realistic scenario to simulate an internal cybersecurity audit aligned with current industry practices. The study was completed as part of the Google Cybersecurity Professional Certificate on Coursera, within the Play It Safe: Manage Security Risks course.
+
+The audit evaluates Botium Toys’ cybersecurity program and examines how existing business practices align with industry standards and best practices. The assessment focuses on identifying high-risk vulnerabilities, providing mitigation recommendations, and defining an overall strategy to improve the organization’s security posture. Audit findings are documented clearly, supported by remediation plans, and structured to enable effective communication with stakeholders.
 
 # Scenario <a name="scenario">
 
@@ -20,14 +23,17 @@
 ## Scope and goals of the audit
 
 ### Scope
+
 The scope of this audit covers the entire security program at Botium Toys. The assessment includes all assets managed by the IT department, encompassing systems, devices, data, and internal processes related to security control implementation and compliance with applicable standards.
 
 The audit evaluates not only the technologies in use, but also asset management practices, access control mechanisms, and the consistency of security control application across daily operations.
 
 ### Goals
+
 The primary goal of this audit is to evaluate the current security posture and identify gaps between existing practices and industry standards and best practices. The assessment focuses on reviewing existing assets and completing control and compliance checklists to determine which security measures should be implemented to improve Botium Toys’ overall security posture.
 
 ## Current assets
+
 Assets managed by the IT department at Botium Toys include:
 - On-premises equipment supporting office operations
 - Employee devices such as desktops, laptops, smartphones, remote workstations, and supporting peripherals
@@ -38,15 +44,19 @@ Assets managed by the IT department at Botium Toys include:
 ## Risk assessment
 
 ### Risk description
+
 Asset management at Botium Toys has not been implemented optimally. Existing security controls are limited and not fully aligned with national and international security regulations and standards. This situation exposes the organization to significant security risks, particularly related to sensitive data protection and business continuity.
 
 ### Control best practices
+
 The recommended approach aligns with the Identify function of the NIST Cybersecurity Framework. Botium Toys should allocate resources to identify and classify all existing assets. This process provides a foundation for understanding risk levels, prioritizing protection efforts, and evaluating the business impact of potential asset loss.
 
 ### Risk score
+
 The overall risk score is 8 out of 10, indicating a high level of risk. This score reflects limited security controls and low adherence to compliance requirements and security best practices.
 
 ### Additional risk considerations
+
 The potential impact of asset loss is considered moderate due to the lack of clarity regarding which assets are most critical to operations. However, the likelihood of asset compromise and regulatory penalties is high, as security controls and data protection mechanisms are insufficient.
 
 Specific findings include:
@@ -61,9 +71,12 @@ Specific findings include:
 - A password policy exists but does not meet modern complexity standards
 - A centralized password management system has not been implemented
 
+---
+
 # Control categories <a name="controlcategories">
 
 ## Control categories
+ 
 Cybersecurity controls are grouped into three primary categories based on their function and area of protection within an organization. This classification helps ensure that human, technological, and physical aspects of security are addressed through a defense-in-depth approach.
 
 The control categories used in the Botium Toys audit include:
@@ -82,7 +95,7 @@ The control types referenced in this audit include:
 
 These control types work together to protect organizational assets through layered security.
 
-## Administrative / managerial controls
+### Administrative / managerial controls
 Administrative controls focus on the human element of cybersecurity. These controls include policies, procedures, and internal rules that define how data is managed and how employee responsibilities are assigned in relation to protecting the organization.
 
 Administrative controls are typically policy-driven, but their effectiveness often relies on the support of technical and physical controls during implementation.
@@ -96,7 +109,7 @@ Administrative controls are typically policy-driven, but their effectiveness oft
 |Account management policies  |Preventative   |Manage account lifecycles, reduce attack surface, and limit risks from default or former employee accounts |
 |Account management policies  |Preventative   |Reduce the risk of abuse by separating critical responsibilities across roles                              |
 
-## Technical controls
+### Technical controls
 Technical controls consist of technology-based solutions used to protect systems, networks, and data from digital threats. These controls play a direct role in preventing, detecting, and responding to security incidents.
 
 The implementation of technical controls enables organizations to achieve security objectives in a consistent and measurable manner.
@@ -111,17 +124,17 @@ The implementation of technical controls enables organizations to achieve securi
 |Antivirus (AV) software                          |Corrective     |Detect and isolate known threats                                           |
 |Manual monitoring, maintenance, and intervention |Preventative   |Identify and manage risks in legacy systems that lack automated updates    |
 
-## Physical / operational controls
+### Physical / operational controls
 Physical controls are used to restrict unauthorized physical access to organizational assets. These controls protect facilities, infrastructure, and inventory from non-digital threats.
 
 Physical security serves as a critical layer in safeguarding IT assets and supporting business operations.
 
-|Control name                                     |Control types             |Control purpose                                                                   |
-|-------------------------------------------------|--------------------------|----------------------------------------------------------------------------------|
-|Time-controlled safe                             |Deterrent                 |Reduce attack surface and limit the impact of physical threat                     |
-|Adequate lighting                                |Deterrent                 |Deter threats by eliminating concealed areas                                      |
-|Closed-circuit television (CCTV)                 |Preventative / detective  |Deter incidents and provide evidence after events occur                           |
-|Locking cabinets (network equipment)             |Preventative              |Prevent unauthorized physical access to network infrastructure                    |
-|Alarm service provider signage                   |Deterrent                 |Discourage attacks by increasing perceived risk                                   |
-|Locks                                            |Preventative / deterrent  |Prevent and deter unauthorized access to physical assets                          |
-|Fire detection and prevention systems            |Detective / preventative  |Detect fires and prevent damage to physical assets such as inventory and servers  |
+|Control name                                     |Control types            |Control purpose                                                                   |
+|-------------------------------------------------|-------------------------|----------------------------------------------------------------------------------|
+|Time-controlled safe                             |Deterrent                |Reduce attack surface and limit the impact of physical threat                     |
+|Adequate lighting                                |Deterrent                |Deter threats by eliminating concealed areas                                      |
+|Closed-circuit television (CCTV)                 |Preventative, detective  |Deter incidents and provide evidence after events occur                           |
+|Locking cabinets (network equipment)             |Preventative             |Prevent unauthorized physical access to network infrastructure                    |
+|Alarm service provider signage                   |Deterrent                |Discourage attacks by increasing perceived risk                                   |
+|Locks                                            |Preventative, deterrent  |Prevent and deter unauthorized access to physical assets                          |
+|Fire detection and prevention systems            |Detective, preventative  |Detect fires and prevent damage to physical assets such as inventory and servers  |
