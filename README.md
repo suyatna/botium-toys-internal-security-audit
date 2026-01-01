@@ -31,11 +31,11 @@ The audit evaluates Botium Toys’ cybersecurity program and examines how existi
 
 Audit ini saya lakukan dengan melihat keseluruhan program keamanan di Botium Toys. Fokusnya bukan hanya pada satu sistem atau alat tertentu, tapi ke semua aset yang dikelola tim IT. Mulai dari sistem yang dipakai sehari hari, perangkat kerja, data perusahaan, sampai proses internal yang berkaitan langsung dengan penerapan kontrol keamanan dan kepatuhan terhadap standar yang berlaku.
 
-Di dalam prosesnya, saya tidak hanya menilai teknologi yang digunakan. Saya juga melihat bagaimana aset dikelola, siapa saja yang punya akses, dan bagaimana kontrol keamanan benar benar diterapkan dalam aktivitas harian. Dari sini terlihat apakah praktik keamanan sudah berjalan konsisten atau masih sebatas aturan di atas kertas.
+Pada prosesnya, saya tidak hanya menilai teknologi yang digunakan. Saya juga melihat bagaimana aset dikelola, siapa saja yang punya akses, dan bagaimana kontrol keamanan benar benar diterapkan dalam aktivitas harian. Dari sini terlihat apakah praktik keamanan sudah berjalan konsisten atau masih sebatas aturan di atas kertas.
 
 #### b. Goals
 
-Tujuan utama audit ini sederhana, saya ingin tahu sekuat apa kondisi keamanan Botium Toys saat ini. Setelah tahu kondisi keamanan, saya mulai membandingkan praktik yang sudah berjalan dengan standar dan best practice yang biasa dipakai di industri.
+Tujuan utama audit ini sederhana, saya ingin tahu sekuat apa kondisi keamanan Botium Toys saat ini. Saya mulai membandingkan praktik yang sudah berjalan dengan standar dan best practice yang biasa dipakai di industri.
 
 Saya menelusuri aset yang ada satu per satu sambil mencocokkannya dengan daftar kontrol dan kepatuhan. Proses ini membantu saya melihat bagian mana yang sudah aman dan bagian mana yang masih punya celah. Dari hasil itulah muncul gambaran langkah keamanan apa saja yang perlu diterapkan supaya posisi keamanan Botium Toys bisa jadi lebih kuat.
 
@@ -84,7 +84,7 @@ Bagian ini menjadi titik penting dalam cerita audit saya. Dari sini terlihat jel
 
 ## 🚧 Control categories <a name="controlcategories">
 
-Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan di Botium Toys. Saya membaginya ke tiga lapisan utama, yaitu administrative/managerial controls, technical controls, dan Physical/operational controls. Pendekatan ini membantu saya melihat keamanan tidak hanya dari sisi sistem, tetapi juga dilihat dari cara orang bekerja serta bagaimana aset dijaga.
+Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan di Botium Toys. Saya membaginya ke tiga lapisan utama. Administrative/managerial controls, technical controls, dan Physical/operational controls. Pendekatan ini membantu saya melihat keamanan bukan hanya dari sisi sistem, tapi dilihat juga dari cara orang bekerja dan bagaimana aset dijaga.
 
 ### Administrative/managerial controls
 
@@ -95,7 +95,7 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 |Password policies|Preventative|Akses akun tidak mudah ditembus dengan cara sederhana|
 |Access control policies|Preventative|Hak lihat dan ubah data jadi lebih jelas|
 |Account management policies|Preventative|Akun lama dan akun default tidak jadi pintu masuk ancaman|
-|Separation of Duties|Preventative|Tanggung jawab dibagi supaya tidak ada kendali berlebih|
+|Separation of duties|Preventative|Tanggung jawab dibagi supaya tidak ada kendali berlebih|
 
 ### Technical controls
 
@@ -125,9 +125,9 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 
 ## 📋 Control and compliance checklist <a name="controlandcompliance">
  
-Pada tahap ini, saya mulai mencocokkan kontrol keamanan yang seharusnya ada dengan kondisi nyata di Botium Toys. Dari sini kelihatan mana yang sudah jalan dan mana yang masih ada celah.
+Pada tahap ini, saya mulai mencocokkan kontrol keamanan yang seharusnya ada dengan kondisi nyata di Botium Toys.
 
-|Control|Yes|No|
+|Kontrol|Yes|No|
 |---|---|---|
 |Least privilege| |x|
 |Disaster recovery plans| |x|
