@@ -82,8 +82,6 @@ Temuan spesifik yang saya catat:
 
 ## 🚧 Control categories <a name="controlcategories">
 
-Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan di Botium Toys.
-
 ### Administrative/managerial controls
 
 |Nama kontrol|Tipe kontrol|Alasan|
