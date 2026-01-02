@@ -137,7 +137,7 @@ Lapisan ini melihat bagaimana aset dijaga secara langsung di lingkungan kerja.
 |Lemari terkunci untuk perangkat jaringan|Preventif|Perangkat penting tidak mudah diakses sembarang orang|
 |Papan peringatan sistem alarm|Pencegah|Pihak luar berpikir ulang sebelum bertindak|
 |Kunci|Preventif/pencegah|Akses fisik tetap terjaga|
-|Sistem deteksi dan pencegahan kebakaran|Server dan inventori terlindungi dari risiko kebakaran|
+|Sistem deteksi dan pencegahan kebakaran|Detektif/preventif|Server dan inventori terlindungi dari risiko kebakaran|
 
 ---
 
@@ -200,4 +200,16 @@ Bagian ini menyoroti cara perusahaan melindungi data pribadi pelanggan dan kesia
 |Data diklasifikasikan dan dicatat dengan jelas| |x|
 |Kebijakan privasi diterapkan|x| |
 
-Beberapa hal sudah mulai dijalankan, terutama terkait prosedur pemberitahuan dan aturan tertulis. Pengelolaan data di tingkat teknis masih perlu banyak pembenahan agar lebih tertata.
+Beberapa hal sudah mulai dijalankan, terutama terkait prosedur pemberitahuan dan aturan tertulis. Pengelolaan data di tingkat teknis masih perlu banyak pembenahan supaya lebih tertata.
+
+#### SOC type 1 and type 2
+
+SOC saya gunakan sebagai acuan untuk menilai bagaimana akses dikelola dan bagaimana data dijaga dari sisi kerahasiaan, keutuhan, dan ketersediaannya.
+
+|Praktik yang seharusnya diterapkan|Sudah|Belum|
+|Kebijakan pengaturan akses pengguna diterapkan| |x|
+|Data sensitif terlindungi dengan baik| |x|
+|Keutuhan data tetap terjaga|x| |
+|Data tersedia bagi pengguna yang berwenang|x| |
+
+Penilaian menunjukkan bahwa aspek keutuhan dan ketersediaan data sudah mulai diperhatikan. Perlindungan kerahasiaan data masih perlu menjadi fokus utama perbaikan.
